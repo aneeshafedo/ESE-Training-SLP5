@@ -1,0 +1,15 @@
+[project]
+org-name= "aneesha"
+version= "0.1.0"
+
+[build-options]
+observability-included=true
+
+[dependencies]
+
+[platform]
+target = "java11"
+
+    [[platform.libraries]]
+    path = "/home/aneesha/Desktop/ESE-Exercises/CustomerService/src/RESTModuleDB/resources/mysql-connector-java-8.0.22.jar"
+    modules = ["RESTModule", "RESTModuleDB"]

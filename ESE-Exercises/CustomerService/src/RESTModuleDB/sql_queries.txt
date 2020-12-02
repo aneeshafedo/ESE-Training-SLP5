@@ -1,0 +1,11 @@
+CREATE TABLE CustomerDetails (Id INT(6) UNSIGNED PRIMARY KEY,Name VARCHAR(30) NOT NULL,Email VARCHAR(50));
+
+
+INSERT INTO CustomerDetails (Id, Name, Email)VALUES (1, 'Aneesha Fernando', 'aneesha@wso2.com');
+
+
+curl -X POST -d "{'Id' : 009, 'Name':'Amal','Email':'amal@gmail.com'}" http://localhost:9090/data/customers
+
+curl "http://localhost:9090/data/customer/2"
+
+curl -X PUT "http://localhost:9090/data/customer/2"  -d '{"Id" : 2, "Name" : "Aneesha Fernando", "Email": "aftd@gmail.com"}' 

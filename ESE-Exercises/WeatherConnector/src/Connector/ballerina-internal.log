@@ -1,0 +1,42 @@
+[2020-12-02 15:47:31,572] SEVERE {b7a.log.crash} - there are test failures 
+java.lang.RuntimeException: there are test failures
+	at org.ballerinalang.test.runtime.util.TesterinaUtils.executeTests(TesterinaUtils.java:77)
+	at org.ballerinalang.test.runtime.Main.startTestSuit(Main.java:60)
+	at org.ballerinalang.test.runtime.Main.main(Main.java:52)
+ 
+[2020-12-02 15:49:55,434] SEVERE {b7a.log.crash} - there are test failures 
+java.lang.RuntimeException: there are test failures
+	at org.ballerinalang.test.runtime.util.TesterinaUtils.executeTests(TesterinaUtils.java:77)
+	at org.ballerinalang.test.runtime.Main.startTestSuit(Main.java:60)
+	at org.ballerinalang.test.runtime.Main.main(Main.java:52)
+ 
+[2020-12-02 15:55:05,725] SEVERE {b7a.log.crash} - there are test failures 
+java.lang.RuntimeException: there are test failures
+	at org.ballerinalang.test.runtime.util.TesterinaUtils.executeTests(TesterinaUtils.java:77)
+	at org.ballerinalang.test.runtime.Main.startTestSuit(Main.java:60)
+	at org.ballerinalang.test.runtime.Main.main(Main.java:52)
+ 
+[2020-12-02 17:00:45,793] SEVERE {b7a.log.crash} - there are test failures 
+java.lang.RuntimeException: there are test failures
+	at org.ballerinalang.test.runtime.util.TesterinaUtils.executeTests(TesterinaUtils.java:77)
+	at org.ballerinalang.test.runtime.Main.startTestSuit(Main.java:60)
+	at org.ballerinalang.test.runtime.Main.main(Main.java:52)
+ 
+[2020-12-02 17:03:30,418] SEVERE {b7a.log.crash} - there are test failures 
+java.lang.RuntimeException: there are test failures
+	at org.ballerinalang.test.runtime.util.TesterinaUtils.executeTests(TesterinaUtils.java:77)
+	at org.ballerinalang.test.runtime.Main.startTestSuit(Main.java:60)
+	at org.ballerinalang.test.runtime.Main.main(Main.java:52)
+ 
+[2020-12-02 17:56:23,859] SEVERE {b7a.log.crash} - there are test failures 
+java.lang.RuntimeException: there are test failures
+	at org.ballerinalang.test.runtime.util.TesterinaUtils.executeTests(TesterinaUtils.java:77)
+	at org.ballerinalang.test.runtime.Main.startTestSuit(Main.java:60)
+	at org.ballerinalang.test.runtime.Main.main(Main.java:52)
+ 
+[2020-12-02 21:47:17,442] SEVERE {b7a.log.crash} - there are test failures 
+java.lang.RuntimeException: there are test failures
+	at org.ballerinalang.test.runtime.util.TesterinaUtils.executeTests(TesterinaUtils.java:77)
+	at org.ballerinalang.test.runtime.Main.startTestSuit(Main.java:60)
+	at org.ballerinalang.test.runtime.Main.main(Main.java:52)
+ 
